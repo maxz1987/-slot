@@ -1,0 +1,6 @@
+{
+  "name": "SlotCoach",
+  "description": "เครื่องมือช่วยวางแผนการเล่นสล็อตและโปรแกรมคำนวณสูตรเดินเงินอัจฉริยะ (Slot Strategy & Bankroll Trainer)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
